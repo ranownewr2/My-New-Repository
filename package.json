@@ -1,3 +1,4 @@
+
 {
     "name": "juice-shop",
     "version": "16.0.1",
@@ -19,6 +20,7 @@
       "capture the flag",
       "awareness"
     ],
+    
     "homepage": "https://owasp-juice.shop",
     "bugs": {
       "url": "https://github.com/juice-shop/juice-shop/issues"
